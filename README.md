@@ -23,3 +23,9 @@ This repository began as a Resilient Coders / bootcamp coding exercise. The orig
 ## Hosting
 
 These are small learning exercises, not currently documented as live hosted applications. They can be run locally using the instructions above. A static project could be published with GitHub Pages if a public demo is useful; the Node server projects need a Node-capable host.
+
+## Live Demo
+
+[Launch the NASA API App](https://simple-nasa-api-bootcamp.onrender.com/)
+
+The application is hosted on Render.
